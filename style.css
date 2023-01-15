@@ -6,9 +6,10 @@ body{
  
 
 h1{
-    text-align: left;
-    color: #0003996e;
-    font: size 4.5em;
+  text-align: left;
+  color: #0003996e;
+  font: size 4.5em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2{
